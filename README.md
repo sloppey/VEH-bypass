@@ -1,4 +1,4 @@
-# VEH-bypass (ROBLOX)
+# VEH-bypass
 hack
 ```C
  void VEH_Bypass(){
